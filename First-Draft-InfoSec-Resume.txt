@@ -1,0 +1,58 @@
+                        Scott Herford
+    Manager I-Product Management, Walmart International Technology
+
+Summary: Product Manager, Technical Project Manager, Advanced Scrum Master, Scaled Agilist, DevOps Champion, Security Warrior Awareness Training (Sergeant)
+Education: 
+    Master of Science Data Science, Southern Methodist University (2019)
+    Master of Arts Sociology, University of Arkansas (2013)
+    Bachelor of Arts Sociology, Arkansas Tech University (2011)
+    Associate of Arts Criminal Justice, Arkansas Tech University (2011)
+Certifications/Certificates:
+    Graduate Certificate, Information Systems/Business Analytics, University of Arkansas (2016)
+    Certified Scrum Product Owner (2021)
+    Professional Scrum Product Owner (2018)
+    SAFe Certified Advanced Scrum Master (2017)
+    SAFe Agilist (2016)
+    DevOps Culture and Mindset Certificate, University of California-Davis (2019)
+    Walmart Global Tech Retail Essentials Certificate (2023)
+    Level 1-Cyber Threat Hunting Training, Black Hills InfoSec Active Countermeasures (2023)
+    Antisyphon SOC Core Skills|John Strand Certificate of Completion (2023)
+    Mile2 C)SA1: Certified Security Awareness (UC) (2023)
+    Mile2 C)SA2: Certified Security Awareness (UC) (2023)
+    Antisyphon MITRE ATT&CK Framework and Tools w/ Carrie Roberts Certificate of Completion (2023)
+    MITRE ATT&CK Defender (MAD) ATT&CK Fundamentals Badge, Cybrary (2023)
+    ISC2 CC Certificate (2023)
+    CompTIA Security+ (Expected 2023)
+    Microsoft Security Operations Analyst SC-200 (Expected 2023) 
+Work Experience:
+    Manager I-Product Manager Apr 2022-Present
+    Product Specialist II Apr 2021-Apr 2022
+    Technical Project Manager II Aug 2019-Mar 2021
+    Associate Technical Project Manager-Tech Jun 2018-Jul 2019
+    Project Analyst-ISD Aug 2017-May 2018
+    Scrum Master IT Consultant (UST Global) Jul 2016-Aug 2017
+    Family Service Worker (AR Dept of Human Services) Sept 2013-Mar 2016
+    Graduate Assistant (University of Arkansas) Aug 2011-May 2013
+    Senior Fellow of Sociology (Arkansas Tech University) Aug 2010-May 2011
+    Wildlife Office Intern, AR Game & Fish Commission Jun 2010-Jul 2010
+    Customer Service Associate, Hollister Co. Jan 2008-May 2008
+    Corporal Infantry Rifleman/LAV Crewman, United States Marine Corps Oct 2003-Oct 2007
+Skills/Course Experience: Monitoring events, Beacon Analysis, Cyber Threat Hunting, Detection, Network Threat Hunting, Threat Hunting Process, Malware Analysis, PenTesting, C2 Detection Techniques, Safelisting, Log Analysis 
+Tools & Languages:
+    CLI, PowerShell, Jupyter, Anaconda, R/RStudio, Python (Anaconda), SQLServer, MySQL, MS 365, MS Defender, MS Sentinel, VirusTotal, 
+    SOCPrime UnCoder AI, MITRE Navigator/Defender, CyberChef, NMAP, WireShark, Nessus, ReconNg, Kali Linux, Hydra, John the Ripper, Metasploit, Msfvenom, Cain & Abel, Rainbow Tables,Talos, Shodan, Nslookup,
+    Invoke-Obfuscation, Revoke-Obfuscation, Event Viewer, AMSI bypass, Mimikatz, Get-KeyStrokes, Get-GPPPassword, NinjaCopy, Inveigh, PowerUp, PowerView, BloodHound, Get-Information
+    ElasticSearch, Rita, AC Hunter, AbuseIP, AlienVault, Zeek, tcpdump, tshark, Datamash, session size analysis, http analysis,user agent analysis
+    R, Python, SAS, SQL, JQL, KQL, Linux, PowerShell, Yara?, Sigma?
+Research:
+    Brzezinski, Matt & Puttagunta, Viswanath & Martinez, Casey & Yeboah, Festus & Herford, James. (2019). Predicting Wind Turbine Blade Erosion using Machine Learning. 17. 
+    Lingle, Jason & Dickens, Kevin & Bakhtiar, Iram & Herford, James. (2019). Security-as-a-Service in a Multi-Cloud Environment. 10.13140/RG.2.2.27812.12166. 
+    Herford, James. (2018). Blockchain- What to Consider when Choosing a Blockchain Framework. 10.13140/RG.2.2.11870.95041. 
+Conferences:
+    B-Sides Oklahoma April 7-8, 2022
+    Walmart SparkCon April 15, 2023
+    Antisyphon Blue Team Summit August 23, 2023
+Organizations:
+    ISC2-June 2023-Present
+    ArkanSec-June 2023-Present
+    HackNWA-June 2023-Present
